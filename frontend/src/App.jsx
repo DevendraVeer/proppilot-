@@ -32,7 +32,7 @@ const TOKENS = {
 
 // After you deploy the FastAPI backend (see backend/main.py) on Render,
 // paste its live URL here. Locally it's usually http://localhost:8000/api/reply
-const API_URL = "http://localhost:8000/api/reply";
+const API_URL = "https://proppilot-backend.onrender.com/api/reply";
 const AGENCY_NAME = "Sunrise Realty";
 
 const LEADS = [
