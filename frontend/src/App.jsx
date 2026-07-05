@@ -501,7 +501,7 @@ export default function PropPilot() {
             className="text-xl font-semibold tracking-tight"
             style={{ color: "#FFFFFF", fontFamily: "'Fraunces', serif" }}
           >
-            PropPilot
+            RELVIO
           </h1>
           <p className="text-[11px] mt-0.5" style={{ color: "#8993A8" }}>
             Lead intelligence
